@@ -25,7 +25,7 @@ class Wiki():
                 data = {
                     str(k): {
                         "title": w.title,
-                        "summary": w.summary[:25],
+                        "summary": w.summary,
                         "image": w.images[0],
                         "url": w.url
                     }
