@@ -1,0 +1,22 @@
+{
+  "1947 india": {
+    "0": {
+      "title": "1947 in India",
+      "summary": "Events in the year 1947 i",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+      "url": "https://en.wikipedia.org/wiki/1947_in_India"
+    },
+    "1": {
+      "title": "Partition of India",
+      "summary": "The partition of India wa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/A_refugee_special_train_at_Ambala_Station_during_partition_of_India.jpg",
+      "url": "https://en.wikipedia.org/wiki/Partition_of_India"
+    },
+    "2": {
+      "title": "List of prime ministers of India",
+      "summary": "The Prime Minister of Ind",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Atal_Bihari_Vajpayee_2002-06-12.jpg",
+      "url": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_India"
+    }
+  }
+}
