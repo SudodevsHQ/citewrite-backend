@@ -26,10 +26,10 @@ class Generator:
         self.required = " ". join(self.required)
 
     def results(self):
-        print(self.required)
+        if not self.required:
+            self.required = self.sentence
         for i in [self.required]:
             wiki = Wiki(i)
             search = wiki.search()
             if search:
-                print("f")
                 self.res.update({i: wiki.result})
